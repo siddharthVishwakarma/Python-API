@@ -1,4 +1,4 @@
 # Python-API
 
-#Entery point
+#Entery point :-
 python server.py
